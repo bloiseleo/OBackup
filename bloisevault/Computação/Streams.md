@@ -1,0 +1,3 @@
+As streams podem ser entendidas como um fluxo de dados que vai de um lugar para o outro. Imagine um rio. Esse rio possui uma nascente que percorre todo um caminho até chegar no seu destino, que pode ser qualquer um. Em computação, a lógica é a mesma e, por conta da sua natureza, precisamos ter uma atenção especial quando vamos tratá-las.
+
+Tendo a noção de que streams são fluxo de dados, temos a noção de que recebemos as informações com o decorrer do tempo, ou seja, recebemos pedaços de dados e não recebemos o dado todo inteiro de uma vez. Uma stream pode enviar dados de maneira infinita, enviar dado nenhum ou enviar tudo de uma única só vez. Isso irá depender da parte que as envia e o que está sendo enviado.

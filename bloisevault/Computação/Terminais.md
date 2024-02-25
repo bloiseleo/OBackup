@@ -1,0 +1,3 @@
+Um terminal é uma interface, um meio, para se comunicar com o seu computador através de linhas de comando. Essa linha de comando aceita receber comandos pré-definidos para interagir com o computador. Coisas como criar arquivos, movê-lo, criar usuários e etc são dados ao computador através de comandos pelo terminal.
+
+Um dos primeiros contatos envolvendo esse tipo de interface foi o Microsoft Disk Operating System (MS-DOS). Ele tinha uma linguagem própria para comunicação via interface chamada de linguagem de controle, onde podiamos passar comandos e receber o seu retorno visual através do driver de vídeo.

@@ -1,0 +1,1 @@
+Imagem de capa deve ser 140 de largura e 210 de altura. 

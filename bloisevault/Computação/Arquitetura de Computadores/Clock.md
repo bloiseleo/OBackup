@@ -1,0 +1,3 @@
+O Clock é um componente do computador que atua produzindo um pulso de energia com uma frequência conhecida. As operações começam quando o clock é produzido e só seguem adiante no próximo clock. Dessa forma, todos os componentes trabalham no mesmo tempo e não atropelam uns aos outros nos processos.
+
+A quantidade de pulsos por segundo é a medida que determina quantos pulsos são efetuados dentro de um segundo e é chamada de Hertz. Logo, quanto maior a quantidade de pulsos, maior a quantidade de operações realizadas por determinado processador.

@@ -1,0 +1,1 @@
+- Largura de Banda de Rede: Quantidade máxima de bits que podem ser enviados ou recebidos pelo link de conexão em 1 segundo. Geralmente, é medido em bits por segundo, mas, com o avanço da tecnologia, temos medidas em kilo, mega e giga.

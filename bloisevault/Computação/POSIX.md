@@ -1,0 +1,3 @@
+Portable Operating System Interface (Interface de Sistema Operacional Portátil) é uma família de padrões especificados pelo IEEE Computer Society visando manter a compatibilidade entre sistemas operacionais. Esses padrões inciaram-se baseando-se no [[Unix]]. Portanto, qualquer sistema que é compatível com POSIX, irá se comportar de maneira identica ou muito similar em termos de ferramental. Esses padrões são definidos e escritos na linguagem C. 
+
+Por conta disso, linguagens que partem dele também aderem à esses perfis. Ademais, o POSIX adiciona funções, padrões, streams e uma série de outras coisas.

@@ -1,0 +1,5 @@
+Para representar caracteres dentro de um computador, é necessário realizar um mapeamento entre o caracter e um determinado conjunto de bytes. O nome disso é *charset*.
+
+O primeiro charset desenvolvido foi o *ASCII*. Esse charset engloba todos os caracteres estado unidenses e mais alguns outros caracteres de controle para comunicações sistemáticas. Entretanto, ele não englobava todos os caracteres que precisava. Por exemplo, caracteres chineses, caracteres como Ç e outros não eram contemplados. Por conta disso, outros *charsets* foram inventados. O mais famoso é o *unicode*. Esse *charset* contêm, inclusive, emojis.
+
+Entretanto, antigamente, para cada caractere, tinhamos mapeado um byte, ou seja, 8 bits (7 bits especificamente no ASCII). Contudo, essa quantidade pode não vir a ser suficiente e, por conta disso, foi criado o conceito de runas. As runas são um conjunto de bytes que podem representar um caractere. Portanto, foi necessário um sistema de encoding. Um sistema de encoding é um algoritmo que determina como um conjunto de bytes pode ser interpretado para um caractere ou uma sequência de caracteres. O mais famoso para Unicode é o UTF-8.

@@ -1,0 +1,1 @@
+O sistema de arquivos gerencia
